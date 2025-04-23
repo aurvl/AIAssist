@@ -1,0 +1,16 @@
+Meilleurs paramètres: {'xgb__colsample_bytree': np.float64(0.7939319885435933), 'xgb__gamma': np.float64(3.4621801644513517), 'xgb__learning_rate': np.float64(0.09082370013955643), 'xgb__max_depth': 9, 'xgb__reg_alpha': np.float64(0.5048731265187917), 'xgb__reg_lambda': np.float64(0.6562926587192107), 'xgb__subsample': np.float64(0.8232408008069365)}
+Meilleur RMSE (CV): 2.1151
+RMSE final (validation): 1.8456
+Features sélectionnées:
+- outils_utilises_chatgpt
+- taches_ia_traduction
+- taches_ia_planification
+- utilisation_ia
+- pret_payer_ia_si_efficace
+- ScoreRisk
+- impact_ia_enseignement
+- age
+- bac
+- impact_ia_emploi
+- domaine_etudes
+- reaction_nouveautes_ia
